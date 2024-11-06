@@ -43,11 +43,8 @@ I thrive in **agile environments**, enjoy taking on new challenges, and am alway
 
 ## 📚 Currently Learning
 
-- ![Next.js](https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![Advanced Node.js](https://img.shields.io/badge/Node_JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![Authentication](https://img.shields.io/badge/Authentication-Security?style=for-the-badge&logo=security&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-W3Schools?style=for-the-badge&logo=java&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
