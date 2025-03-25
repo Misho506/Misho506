@@ -38,17 +38,21 @@ I thrive in **agile environments**, enjoy taking on new challenges, and am alway
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   - ![Vela](https://img.shields.io/badge/Vela-0052CC?style=for-the-badge&logo=vela&logoColor=white)
+  - ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-- ![Java](https://img.shields.io/badge/Java-W3Schools?style=for-the-badge&logo=java&logoColor=white)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
+
+- **Freelance (January 2024 - PRESENT)**
+  - Software Developer
+  - Developed and maintained applications using **React JS**, **Vercel**, **TypeScript** and **Tailwindcss**. Focused on building responsive web apps.
 
 - **NTT DATA (August 2020 - October 2023)**
   - React JS Developer
@@ -57,6 +61,7 @@ I thrive in **agile environments**, enjoy taking on new challenges, and am alway
 - **Pernix Solutions (January 2017 - July 2020)**
   - Software Developer
   - Developed and maintained applications using **React JS**, **React Native**, and **Angular JS**. Focused on building responsive, user-centric web apps.
+
 
 ---
 
